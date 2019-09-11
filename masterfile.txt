@@ -4,5 +4,8 @@
  My final checking into branch
 
  One more test file
+<<<<<<< HEAD
 
  Third modified file
+=======
+>>>>>>> Mybranch
